@@ -1,0 +1,4 @@
+name: GetItemToDeath
+version: ${project.version}
+main: sakastudio.getitemtodeath.GetItemToDeath
+api-version: 1.15
